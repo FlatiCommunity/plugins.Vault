@@ -1,6 +1,7 @@
 name: Vault
-version: '1.0'
-main: me.naulbimix.fVault.Bootstrap
+version: '1.1'
+main: net.milkbowl.vault.Bootstrap
 api-version: '1.16'
+description: 'fork def vault'
 author: NaulbiMIX
 load: STARTUP

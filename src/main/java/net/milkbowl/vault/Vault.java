@@ -1,8 +1,8 @@
-package me.naulbimix.fVault;
+package net.milkbowl.vault;
 
 import org.bukkit.plugin.java.*;
 
-public class Bootstrap extends JavaPlugin {
+public class Vault extends JavaPlugin {
 
     @Override
     public void onEnable() {
