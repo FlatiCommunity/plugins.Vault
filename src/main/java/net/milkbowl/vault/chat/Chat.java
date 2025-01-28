@@ -12,7 +12,7 @@ import org.bukkit.entity.Player;
  */
 public abstract class Chat {
 	
-	private Permission perms;
+	private final Permission perms;
 	
 	public Chat(Permission perms) {
 		this.perms = perms;
