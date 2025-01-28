@@ -1,6 +1,6 @@
 name: Vault
 version: '1.1'
-main: net.milkbowl.vault.Bootstrap
+main: net.milkbowl.vault.Vault
 api-version: '1.16'
 description: 'fork def vault'
 author: NaulbiMIX
