@@ -1,7 +1,7 @@
 name: Vault
-version: '1.1'
+version: '2.0'
 main: net.milkbowl.vault.Vault
-api-version: '1.16'
-description: 'fork def vault'
-author: NaulbiMIX
+api-version: '1.13'
+description: 'This project is a cleaned-fork of original project by MilkBowl'
+authors: [cereal, Sleaker, mung3r, NaulbiMIX]
 load: STARTUP

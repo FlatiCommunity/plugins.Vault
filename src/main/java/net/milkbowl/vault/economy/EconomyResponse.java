@@ -16,7 +16,7 @@ public class EconomyResponse {
         FAILURE(2),
         NOT_IMPLEMENTED(3);
 
-        private int id;
+        private final int id;
 
         ResponseType(int id) {
             this.id = id;
